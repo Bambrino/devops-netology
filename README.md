@@ -1,17 +1,36 @@
 # devops-netology
 
-Добавление в игнор по маске 
-- звездочка на конце .* - все расширения
+1) aefead2207ef7e2aa5dc81a34aedf0cad4c32545 \
+    Update CHANGELOG.md
 
-- звездочка между в имени файла bla-bla.*.bla - файлы bla-bla.ЛЮБОЕ.bla
 
-- двойная звездочка в пути - bla/**/bla.txt - файл bla.txt будет проигнорирован в люблй дочерней 
-директории директории bla
+2) 85024d3100126de36331c6982bfaac02cdab9e76 tag: v0.12.23
 
-- двойная звездочка **/xz15 - такой элемент (в данном случае папка) будут проигнорированы в любом месте
-от gitignore
 
-- такой вариант *.txt - будет прогнорированы все файлы с расширением txt в директории уровня gitignore 
+3) 2:
+	1) 56cd7859e05c36c06b56d013b55a252d0bb7e158
+	2) 9ea88f22fc6269854151c571162c5bcf958bee2b
 
-one more line
-empty commit
+
+4)
+	33ff1c03b (tag: v0.12.24) v0.12.24 \
+	b14b74c49 [Website] vmc provider links\
+	3f235065b Update CHANGELOG.md \
+	6ae64e247 registry: Fix panic when server is unreachable\
+	5c619ca1b website: Remove links to the getting started guide's old location\
+	06275647e Update CHANGELOG.md\
+	d5f9411f5 command: Fix bug when using terraform login on Windows\
+	4b6d06cc5 Update CHANGELOG.md\
+	dd01a3507 Update CHANGELOG.md\
+	225466bc3 Cleanup after v0.12.23 release\
+
+
+5) 8c928e83589d90a031f811fae52a81be7153e82f
+
+
+
+6) 8364383c359a6b738a436d1b7745ccdce178df47
+
+
+7) commit 5ac311e2a91e381e2f52234668b49ba670aa0fe5\
+   Author: Martin Atkins <mart@degeneration.co.uk>
